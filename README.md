@@ -1,10 +1,26 @@
-Este projeto tem como objetivo testar o Amazon Q, utilizado no Hacktown 2025.
+# Projeto: Testando o **Amazon Q** no Hacktown 2025 🚀
 
-COMO JOGAR O LIGUE 4
-=====================
+Este projeto foi desenvolvido com o objetivo de **testar o Amazon Q** durante o evento **Hacktown 2025**.  
+A aplicação escolhida para o teste foi um jogo interativo de **Ligue 4** (Connect Four). 🎮
 
-1. Execute o arquivo .exe gerado
-2. Escolha opcao 1 para iniciar
-3. Digite os nomes dos jogadores
-4. Escolha colunas de 1 a 7
-5. Conecte 4 pecas em linha para ganhar!
+---
+
+## 🕹️ Como Jogar o Ligue 4
+
+1️⃣ **Execute** o arquivo `.exe` gerado.  
+2️⃣ **Escolha** a opção **1** para iniciar o jogo.  
+3️⃣ **Digite** os nomes dos jogadores.  
+4️⃣ **Escolha** uma coluna de **1 a 7** para colocar sua peça.  
+5️⃣ **Conecte 4 peças em linha** (horizontal, vertical ou diagonal) para ganhar! 🏆  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- 💻 **Linguagem:** C 
+- ☁️ **Amazon Q**  
+- 🎨 **Interface:** Console interativo  
+
+---
+
+## 📅 Evento
+Este projeto foi criado durante o **Hacktown 2025** 🏙️, como parte de um experimento com **Amazon Q** para explorar aplicações criativas e interativas.
