@@ -7,7 +7,7 @@ A aplicação escolhida para o teste foi um jogo interativo de **Ligue 4** (Conn
 
 ## 🕹️ Como Jogar o Ligue 4
 
-1️⃣ **Execute** o arquivo `.exe` gerado.  
+1️⃣ **Execute** o arquivo `.exe` gerado a partir da compilação.  
 2️⃣ **Escolha** a opção **1** para iniciar o jogo.  
 3️⃣ **Digite** os nomes dos jogadores.  
 4️⃣ **Escolha** uma coluna de **1 a 7** para colocar sua peça.  
@@ -19,8 +19,3 @@ A aplicação escolhida para o teste foi um jogo interativo de **Ligue 4** (Conn
 - 💻 **Linguagem:** C 
 - ☁️ **Amazon Q**  
 - 🎨 **Interface:** Console interativo  
-
----
-
-## 📅 Evento
-Este projeto foi criado durante o **Hacktown 2025** 🏙️, como parte de um experimento com **Amazon Q** para explorar aplicações criativas e interativas.
